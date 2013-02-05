@@ -1,7 +1,5 @@
-rse
+Really Simple Editor (RSE)
 ===
-
-Really Simple Editor
 
 This is a really simple editor. Made for the web, on the web.
 
